@@ -1,0 +1,8 @@
+---all data
+/api/v1/resources/Sensors/all
+----SensorIndividual
+/api/v1/resources/Sensors?id=00-80-00-00-04-01-9f-d7
+----Datewise
+/api/v1/resources/Date?date=2021-05-31
+---SensorandDatewise
+/api/v1/resources/DSensor?devSiceid=00-80-00-00-04-01-9f-d7&date=2021-05-31
